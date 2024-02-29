@@ -1,4 +1,5 @@
 # from www.youtube.com/@indently
+# https://www.youtube.com/shorts/JvMh6yshgFo?feature=share
 
 # lru_cache
 from functools import lru_cache
